@@ -3,5 +3,5 @@ kaunis sivusto
 
 .
 
-VILI Amanda Juhani Simoton Lauri #Korjasin kirjoitusvirheitä(Lauri)
+VILI Amanda Juhani Simoton Lauri 
 j
